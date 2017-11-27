@@ -1,0 +1,19 @@
+{
+  "name": "javotroya",
+  "version": "1.0.0",
+  "description": "My personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/javotroya/javotroya.github.io.git"
+  },
+  "author": "Javier Troya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javotroya/javotroya.github.io/issues"
+  },
+  "homepage": "https://github.com/javotroya/javotroya.github.io#readme"
+}
